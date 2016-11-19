@@ -1,6 +1,6 @@
 Author = "Teagan";
 onLoadName = "PDG Basic Training - Altis";
-onLoadMission = "Here, we show you the basics of Arma 3 itself, our mods and our techniques. FALL IN RECRUITS!";
+onLoadMission = "Here, we show you the basics of Arma 3 itself, our mods and our techniques. FALL IN RECRUITS! LETS HAVE SOME FUN!";
 
 
 enableDebugConsole		= 1;// 0 = Default behavior, available only in editor, 1 = Available in SP and for hosts / logged in admins, 2 = Available for everyone
